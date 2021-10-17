@@ -1,0 +1,19 @@
+My notes for the project: 
+
+KISS..
+
+Functionality (phase 1)
+- Able to add todo 
+- Able to remove todo 
+- Able to mark todo complete.
+
+Components 
+Todo app always has a header and an input and a button. 
+As todos are added it expands.
+Todo area has fixed height-width and will scroll when too many to view at once
+
+Todo Container 
+    header 
+    input + button for submit form 
+    state lives at top
+
